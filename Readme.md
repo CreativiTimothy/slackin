@@ -1,4 +1,3 @@
-
 # slackin
 
 A little server that enables public access
@@ -102,6 +101,8 @@ By default logging is enabled.
 excellent [shields](https://github.com/badges/shields) project.
 - The button CSS is based on 
 [github-buttons](https://github.com/mdo/github-buttons).
+
+This is just a fork to edit some of the text to make it more user-friendly, at least for some.
 
 ## License
 
